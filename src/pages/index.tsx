@@ -15,7 +15,7 @@ export default function Home() {
           <div className={styles.bannerContent}>
             <img src="/Separator.svg" alt="separator" />
             <img src="/Logo.png" alt="logo" className={styles.logo} />
-            <p>Landing Page e VSL do produto Atlantis, para o processo seletivo&nbsp;<br/>“<em>Emprego de Alto Aprendizado</em>” 2023, do Max Peters.</p>
+            <p>VSL do produto Atlantis, para o processo seletivo&nbsp;<br/>“<em>Emprego de Alto Aprendizado</em>” 2023, do Max Peters.</p>
           </div>
         </div>
         <img src="/Separator.svg" alt="separator" className={styles.separator} />
